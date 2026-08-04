@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8cedadcd6443a4f",
+        "id": "dd577b2e7dac452b",
         "type": "tabs",
         "children": [
           {
-            "id": "06e43e1baced67ae",
+            "id": "03667183b9c4d60b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Goals/2026-08 -03.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08 -03"
+              "title": "New tab"
             }
           }
         ]
@@ -114,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Goals/2026-08 -03.md",
+            "file": "Candidate _resumes/mohammad rashid resume.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,10 +166,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "06e43e1baced67ae",
+  "active": "03667183b9c4d60b",
   "lastOpenFiles": [
-    "2026-07-30.md",
+    "Candidate _resumes/mohammad rashid resume.pdf",
     "Daily Goals/2026-08 -03.md",
+    "2026-07-30.md",
     "Daily Goals/2026-07-29.md",
     "Daily Goals/2026-07-31.md",
     "Net exam/Plan.md",
